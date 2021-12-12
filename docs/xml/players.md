@@ -21,7 +21,7 @@ This page needs some content. You can contribute to it using the Edit Button!
 |costume|int||
 |costumeSuffix|string||
 |bombs|int|Starting bombs|
-|keys|coins|Starting keys|
+|keys|int|Starting keys|
 |coins|int|Starting coins|
 |card|int|Starting card ID|
 |pill|int||
