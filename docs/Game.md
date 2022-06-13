@@ -361,7 +361,7 @@ Returns true, if the game is in a state, where the player is unable to input any
 ___
 ### Move·To·Random·Room () {: aria-label='Functions' }
 [ ](#){: .abrep .tooltip .badge }
-#### void MoveToRandomRoom ( boolean IAmErrorRoom, int Seed ) {: .copyable aria-label='Functions' }
+#### void MoveToRandomRoom ( boolean IAmErrorRoom, int Seed, EntityPlayer Player ) {: .copyable aria-label='Functions' }
 
 ___
 ### Next·Victory·Lap () {: aria-label='Functions' }
