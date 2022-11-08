@@ -1758,7 +1758,7 @@ ___
 ### Head·Frame·Delay {: aria-label='Variables' }
 [ ](#){: .abrep .tooltip .badge }
 #### int HeadFrameDelay  {: .copyable aria-label='Variables' }
-
+Forces Isaac to play the shooting animation for a set amount of frames.
 ___
 ### IBS·Charge {: aria-label='Variables' }
 [ ](#){: .rep .tooltip .badge }
