@@ -130,9 +130,7 @@ ___
 [ ](#){: .abrep .tooltip .badge }
 #### void Shoot ( ) {: .copyable aria-label='Functions' }
 
-
-???+ bug "Bugs"
-    This function does not seem to work.
+Makes your familiar shoot the same way as Brother Bobby familiar does.
 ___
 ## Variables
 ### Coins {: aria-label='Variables' }
